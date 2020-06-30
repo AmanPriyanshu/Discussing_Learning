@@ -11,3 +11,9 @@ This case is simple and talks about Linear and Logistic Regression for a single 
 
 * [Thinking about Multi-Feature Perceptrons]()
 
+Its not completely implemented and I have to check a lot of stuff so am not posting it here.
+
+* [Quantized Acceleration of Neural Networks]()
+
+Implementing Quantization to Accelerate Neural Network Learning. Once a sufficient accuracy is reached remove Quantization and cotinue.
+
