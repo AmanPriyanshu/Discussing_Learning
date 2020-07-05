@@ -21,8 +21,8 @@ Implementing Quantization to Accelerate Neural Network Learning. Once a sufficie
 
 Implementation of Simple Logistic Regression
 
-* [Naive Bayes]()
+* [Naive Bayes](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Naive_Bayes_and_K_Means.ipynb)
 
-* [K-Means]()
+* [K-Means](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Naive_Bayes_and_K_Means.ipynb)
 
-* [AutoEncoders]()
+* [AutoEncoders](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/AutoEncoders.ipynb)
