@@ -20,3 +20,9 @@ Implementing Quantization to Accelerate Neural Network Learning. Once a sufficie
 * [Simple Logistic Regression]()
 
 Implementation of Simple Logistic Regression
+
+* [Naive Bayes]()
+
+* [K-Means]()
+
+* [AutoEncoders]()
