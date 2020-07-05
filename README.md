@@ -17,3 +17,6 @@ Its not completely implemented and I have to check a lot of stuff so am not post
 
 Implementing Quantization to Accelerate Neural Network Learning. Once a sufficient accuracy is reached remove Quantization and cotinue.
 
+* [Simple Logistic Regression]()
+
+Implementation of Simple Logistic Regression
