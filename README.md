@@ -26,3 +26,6 @@ Implementation of Simple Logistic Regression
 * [K-Means](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Naive_Bayes_and_K_Means.ipynb)
 
 * [AutoEncoders](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/AutoEncoders.ipynb)
+
+* [Oracle-Council Method](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/The_Oracle_and_the_Council.ipynb)
+If it does not open try using the colab link directly: https://colab.research.google.com/drive/1Htp8Ii3RrS76d0tQDvRXQYGGHda4rYMX?usp=sharing
