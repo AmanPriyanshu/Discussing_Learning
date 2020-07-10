@@ -28,4 +28,9 @@ Implementation of Simple Logistic Regression
 * [AutoEncoders](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/AutoEncoders.ipynb)
 
 * [Oracle-Council Method](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/The_Oracle_and_the_Council.ipynb)
+
 If it does not open try using the colab link directly: https://colab.research.google.com/drive/1Htp8Ii3RrS76d0tQDvRXQYGGHda4rYMX?usp=sharing
+
+* [Council for Weights](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Council_for_Weights.ipynb)
+
+Understanding how weight initialization seed affects final weights
