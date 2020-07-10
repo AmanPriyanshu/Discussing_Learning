@@ -29,7 +29,7 @@ Implementation of Simple Logistic Regression
 
 * [Oracle-Council Method](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/The_Oracle_and_the_Council.ipynb)
 
-If it does not open try using the colab link directly: https://colab.research.google.com/drive/1Htp8Ii3RrS76d0tQDvRXQYGGHda4rYMX?usp=sharing
+This method is used when labelling the dataset is very expensive. The model itself samples from the dataset to be specifically labelled, so as to learn further. It selects which datapoints is required which would allow it to learn better.
 
 * [Council for Weights](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Council_for_Weights.ipynb)
 
