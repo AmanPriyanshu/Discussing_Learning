@@ -17,6 +17,14 @@ Its not completely implemented and I have to check a lot of stuff so am not post
 
 Implementing Quantization to Accelerate Neural Network Learning. Once a sufficient accuracy is reached remove Quantization and cotinue.
 
+* [Oracle-Council Method](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/The_Oracle_and_the_Council.ipynb)
+
+This method is used when labelling the dataset is very expensive. The model itself samples from the dataset to be specifically labelled, so as to learn further. It selects which datapoints is required which would allow it to learn better.
+
+* [Council for Weights](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Council_for_Weights.ipynb)
+
+Understanding how weight initialization seed affects final weights
+
 * [Simple Logistic Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Logistic_Regression.ipynb)
 
 Implementation of Simple Logistic Regression
@@ -26,11 +34,3 @@ Implementation of Simple Logistic Regression
 * [K-Means](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Naive_Bayes_and_K_Means.ipynb)
 
 * [AutoEncoders](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/AutoEncoders.ipynb)
-
-* [Oracle-Council Method](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/The_Oracle_and_the_Council.ipynb)
-
-This method is used when labelling the dataset is very expensive. The model itself samples from the dataset to be specifically labelled, so as to learn further. It selects which datapoints is required which would allow it to learn better.
-
-* [Council for Weights](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Council_for_Weights.ipynb)
-
-Understanding how weight initialization seed affects final weights
