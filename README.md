@@ -25,6 +25,10 @@ This method is used when labelling the dataset is very expensive. The model itse
 
 Understanding how weight initialization seed affects final weights
 
+* [Iterative Implementation of KNN for Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Iterative_Implementation_of_KNN.ipynb)
+
+Implementation of KNN for regression using simple interpolation technique to further improve it.
+
 * [Simple Logistic Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Logistic_Regression.ipynb)
 
 Implementation of Simple Logistic Regression
