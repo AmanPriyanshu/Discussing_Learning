@@ -27,7 +27,7 @@ Understanding how weight initialization seed affects final weights
 
 * [Iterative Implementation of KNN for Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Iterative_Implementation_of_KNN.ipynb)
 
-Implementation of KNN for regression using simple interpolation technique to further improve it.
+Implementation of KNN for regression using simple interpolation technique to further improve it. Gives better results than ANN and linear regression in some cases. At the cost of higher change for overfitting
 
 * [Simple Logistic Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Logistic_Regression.ipynb)
 
