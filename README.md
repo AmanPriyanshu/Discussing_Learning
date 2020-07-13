@@ -43,6 +43,8 @@ Implemented One Class Unsupervised Classification to identify importance of diff
 
 --------
 
+* [Stochastic Outlier Selection](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/py_SOS.ipynb)
+
 * [Simple Logistic Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Logistic_Regression.ipynb)
 
 * [Naive Bayes](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Naive_Bayes_and_K_Means.ipynb)
