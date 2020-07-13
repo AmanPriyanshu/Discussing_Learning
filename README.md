@@ -33,9 +33,9 @@ Implementation of KNN for regression using simple interpolation technique to fur
 
 Implemented One Class Unsupervised Classification to identify importance of different neuron based on the labels.
 
-* [Simple Logistic Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Logistic_Regression.ipynb)
+--------
 
-Implementation of Simple Logistic Regression
+* [Simple Logistic Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Logistic_Regression.ipynb)
 
 * [Naive Bayes](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Naive_Bayes_and_K_Means.ipynb)
 
