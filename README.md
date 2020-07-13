@@ -25,6 +25,8 @@ This method is used when labelling the dataset is very expensive. The model itse
 
 Understanding how weight initialization seed affects final weights
 
+![Affects of seed initialization](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/seed_affects.PNG)
+
 * [Iterative Implementation of KNN for Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Iterative_Implementation_of_KNN.ipynb)
 
 Implementation of KNN for regression using simple interpolation technique to further improve it. Gives better results than ANN and linear regression in some cases. At the cost of higher change for overfitting
