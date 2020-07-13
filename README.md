@@ -27,7 +27,7 @@ This method is used when labelling the dataset is very expensive. The model itse
 
 Understanding how weight initialization seed affects final weights
 
-![Affects of seed initialization](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/seed_affects.PNG)
+![Affects of seed initialization](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/seed_affects.PNG =64x64)
 
 * [Iterative Implementation of KNN for Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Iterative_Implementation_of_KNN.ipynb)
 
