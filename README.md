@@ -29,6 +29,8 @@ Understanding how weight initialization seed affects final weights
 
 Implementation of KNN for regression using simple interpolation technique to further improve it. Gives better results than ANN and linear regression in some cases. At the cost of higher change for overfitting
 
+![Comparison of I-KNN-Regression, Linear Regression](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/iterative_knn_regression.png)
+
 * [Neuron Visualization for Binary Exploitation](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/NeuralNetFiring.ipynb)
 
 Implemented One Class Unsupervised Classification to identify importance of different neuron based on the labels.
