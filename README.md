@@ -23,7 +23,7 @@ Its not completely implemented and I have to check a lot of stuff so am not post
 
 * [Quantized Acceleration of Neural Networks]()
 
-Implementing Quantization to Accelerate Neural Network Learning. Once a sufficient accuracy is reached remove Quantization and cotinue.
+Implementing Quantization to Accelerate Neural Network Learning. Once a sufficient accuracy is reached remove Quantization and continue.
 
 * [Oracle-Council Method](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/The_Oracle_and_the_Council.ipynb)
 
