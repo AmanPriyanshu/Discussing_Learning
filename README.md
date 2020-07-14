@@ -15,7 +15,9 @@ Visualize which neurons are firing in your neural network. Check out the quicker
 
 Created a custom callback which can help visualise categorical traning for Sequential Neural Networks (Tensorflow). Built to tackle any number of features, just make sure it is categorical and the rest will be handled. You can set at after how many epochs the images are displayed and you can save these generated images as well. Directly Execute on [Google Colab](https://colab.research.google.com/drive/1CaKbM2mPkLChaAnB89UcJdkzFt5J96DU?usp=sharing)
 
+#### 3 - Classes
 ![Results](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/training_classifier/categorical_training.gif)
+#### 7 - Classes
 ![Results](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/training_classifier/seven_categories.gif)
 
 * [Thinking about Perceptrons](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Discussing_the_Perception_of_Perceptrons.ipynb)
