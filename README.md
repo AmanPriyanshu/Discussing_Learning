@@ -13,7 +13,7 @@ Visualize which neurons are firing in your neural network. Check out the quicker
 
 * [Visualise Categorical Learning](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Categorical_loss_visualiser.ipynb)
 
-Created a custom callback which can help visualise categorical traning for Sequential Neural Networks (Tensorflow)
+Created a custom callback which can help visualise categorical traning for Sequential Neural Networks (Tensorflow). Built to tackle any number of features, just make sure it is categorical and the rest will be handled. You can set at after how many epochs the images are displayed and you can save these generated images as well.
 
 ![Results](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/training_classifier/categorical_training.gif)
 
