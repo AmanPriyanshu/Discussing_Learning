@@ -15,6 +15,8 @@ Visualize which neurons are firing in your neural network. Check out the quicker
 
 Created a custom callback which can help visualise categorical traning for Sequential Neural Networks (Tensorflow)
 
+![Results](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/training_classifier/categorical_training.gif)
+
 * [Thinking about Perceptrons](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Discussing_the_Perception_of_Perceptrons.ipynb)
 
 This case is simple and talks about Linear and Logistic Regression for a single feature. I don't think this is the best optimization or the most optimal results but definitely something. If you cannot see the GitHub link because somehow .ipynb files do not load take a look at the [Colab Notebook](https://colab.research.google.com/drive/1ZZMGsR8xA2eEqUGrWgSt8EVNoSkdffUm?usp=sharing).
