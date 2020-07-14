@@ -7,7 +7,7 @@ This case talks about Generalization its use case and how it is one of the most 
 
 * [Visualize Neurons Firing in Sequential Neural Networks](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/VisualizingNN.ipynb)
 
-Visualize which neurons are firing in your neural network. Check out the quicker implementation in [colab](https://colab.research.google.com/drive/11vSl0I_yO6x6-Vvvt7xdRbDC23DBavSI?usp=sharing)
+Visualize which neurons are firing in your neural network. Check out the quicker implementation in [Colab Notebook](https://colab.research.google.com/drive/11vSl0I_yO6x6-Vvvt7xdRbDC23DBavSI?usp=sharing)
 
 ![Results](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/NNV/vnn.gif)
 
