@@ -19,6 +19,8 @@ Created a custom callback which can help visualise categorical traning for Seque
 ![Results](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/training_classifier/categorical_training.gif)
 #### 7 - Classes
 ![Results](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/training_classifier/seven_categories.gif)
+#### Neat Viewing
+![Results](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/images/training_classifier/better%20style/neat_seven_pointer.gif)
 
 * [Thinking about Perceptrons](https://github.com/AmanPriyanshu/Discussing_Learning/blob/master/Discussing_the_Perception_of_Perceptrons.ipynb)
 
